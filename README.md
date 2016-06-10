@@ -2,8 +2,12 @@
 
 1) Central Tendency
 
-2) Variance
+2) Chaos Theory Coding
 
-3) Single Sample Statistics
+3) Learning functions in R
 
-4) Chaos Theory Coding
+4) Logistic Regression
+
+5) Single Sample statistics
+
+6) Variance coding
